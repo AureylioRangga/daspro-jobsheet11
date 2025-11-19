@@ -8,13 +8,13 @@ PERCOBAAN 1
    jawab : Karena elemen array belum diisi. Secara default, tipe data String bernilai null ketika belum diberikan nilai.
 
 3. Lengkapi daftar penonton pada langkah ke-4 sebagai berikut
-   jawab : 
+   jawab : sudah
 
 4. Tambahkan kode program sebagai berikut:
    Jelaskan fungsi dari penonton.length dan penonton[0].length!
    Apakah penonton[0].length, penonton[1].length, penonton[2].length, dan
    penonton[3].length memiliki nilai yang sama? Mengapa?
-   jawab :
+   jawab : 
 
 5. Modifikasi kode program pada pertanyaan 4 untuk menampilkan panjang setiap baris
    pada array menggunakan for loop. Compile, run, lalu amati hasilnya. 
