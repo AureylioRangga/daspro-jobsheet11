@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Bioskop07 {
+public class Percobaan1ModifikasiNo5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -20,9 +20,9 @@ public class Bioskop07 {
         System.out.printf("%s \t %s\n", penonton[3][0], penonton[3][1]);
     
         System.out.println(penonton.length);
-        System.out.println(penonton[0].length);
-        System.out.println(penonton[1].length);
-        System.out.println(penonton[2].length);
-        System.out.println(penonton[3].length);
+
+        for (int i = 0; i < penonton.length; i++) {
+            System.out.println("Panjang baris ke-" + i + ": " + penonton[i].length);
+        }
     }
 }
