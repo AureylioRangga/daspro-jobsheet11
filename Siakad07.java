@@ -7,12 +7,25 @@ public class Siakad07 {
 
         for (int i = 0; i < nilai.length; i++) {
             System.out.println("input nilai mahasiswa ke-" + (i + 1));
+            double totalPerSiswa = 0;
 
             for (int j = 0; j < nilai[i].length; j++) {
                System.out.print("nilai mata kuliah ke " + (j + 1) + ": ");
                nilai[i][j] = scanner.nextInt(); 
-               
+               totalPerSiswa += nilai[i][j];
             }
+            System.out.println("Nilai rata-rata: " + totalPerSiswa/3);
+        } 
+        System.out.println("\n==============================\n");
+        System.out.println("Rata-rata Nilai setiap mata kuliah");
+        
+        for (int j = 0; j < 3; j++) {
+            double totalPerMataKul = 0;
+
+            for (int i = 0; i < 4; i++) {
+                totalPerMataKul += nilai[i][j];
+            }
+            System.out.println("Mata kuliah ke-" + (j + 1) + ": " + totalPerMataKul/4);
         }
     }
 }
