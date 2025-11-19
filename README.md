@@ -14,7 +14,11 @@ PERCOBAAN 1
    Jelaskan fungsi dari penonton.length dan penonton[0].length!
    Apakah penonton[0].length, penonton[1].length, penonton[2].length, dan
    penonton[3].length memiliki nilai yang sama? Mengapa?
-   jawab : 
+   jawab : fungsi penonton.length dan penonton[0].length
+   penonton.length → jumlah baris (row) dalam array.
+   penonton[0].length → jumlah kolom pada baris ke-0.
+   apakah semua penonton[i].length sama?
+   iya, karena array dibuat dengan ukuran 4 baris × 2 kolom, sehingga setiap baris memiliki panjang kolom yang sama, yaitu 2.
 
 5. Modifikasi kode program pada pertanyaan 4 untuk menampilkan panjang setiap baris
    pada array menggunakan for loop. Compile, run, lalu amati hasilnya. 

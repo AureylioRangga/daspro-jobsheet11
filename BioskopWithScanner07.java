@@ -14,7 +14,7 @@ public class BioskopWithScanner07 {
             baris = scanner.nextInt();
             System.out.print("Masukkan Kolom: ");
             kolom = scanner.nextInt();
-            scanner.nextLine();
+            scanner.nextLine(); 
 
             penonton[baris-1][kolom-1] = nama;
 
