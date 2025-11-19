@@ -19,7 +19,7 @@ public class Siakad07 {
         System.out.println("\n==============================\n");
         System.out.println("Rata-rata Nilai setiap mata kuliah");
         
-        for (int j = 0; j < 3; j++) {
+        for (int j = 0; j < 3; j++) { 
             double totalPerMataKul = 0;
 
             for (int i = 0; i < 4; i++) {
