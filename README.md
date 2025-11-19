@@ -22,7 +22,7 @@ PERCOBAAN 1
 
 5. Modifikasi kode program pada pertanyaan 4 untuk menampilkan panjang setiap baris
    pada array menggunakan for loop. Compile, run, lalu amati hasilnya. 
-   jawab :
+   jawab : sudah 
 
 6. Modifikasi kode program pada pertanyaan 5 untuk menampilkan panjang setiap baris
    pada array menggunakan foreach loop. Compile, run, lalu amati hasilnya.
