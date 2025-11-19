@@ -26,11 +26,11 @@ PERCOBAAN 1
 
 6. Modifikasi kode program pada pertanyaan 5 untuk menampilkan panjang setiap baris
    pada array menggunakan foreach loop. Compile, run, lalu amati hasilnya.
-   jawab : 
+   jawab : sudah
 
 7. Tambahkan kode program untuk menampilkan nama penonton pada baris ke-3
    menggunakan for loop. Compile, run, lalu amati hasilnya.
-   jawab :
+   jawab : 
 
 8. Modifikasi kode program pada pertanyaan 7 menjadi perulangan dengan foreach
    loop. Compile, run, lalu lakukan amati hasilnya.
