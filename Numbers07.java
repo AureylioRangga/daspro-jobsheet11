@@ -9,4 +9,4 @@ public class Numbers07 {
         myNumbers[2] = new int[1];
 
         }
-    }
+    } 
