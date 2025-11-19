@@ -10,7 +10,7 @@ public class BioskopWithScanner07 {
         while (true) {
             System.out.print("Masukkan nama: ");
             nama = scanner.nextLine();
-            System.out.print("Masuukkan baris: ");
+            System.out.print("Masukkan baris: ");
             baris = scanner.nextInt();
             System.out.print("Masukkan Kolom: ");
             kolom = scanner.nextInt();
