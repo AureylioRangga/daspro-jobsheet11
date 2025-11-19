@@ -10,7 +10,8 @@ public class Siakad07 {
 
             for (int j = 0; j < nilai[i].length; j++) {
                System.out.print("nilai mata kuliah ke " + (j + 1) + ": ");
-               nilai[i][j] = scanner.nextInt();
+               nilai[i][j] = scanner.nextInt(); 
+               
             }
         }
     }
