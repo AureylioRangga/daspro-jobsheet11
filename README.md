@@ -30,28 +30,40 @@ PERCOBAAN 1
 
 7. Tambahkan kode program untuk menampilkan nama penonton pada baris ke-3
    menggunakan for loop. Compile, run, lalu amati hasilnya.
-   jawab : 
+   jawab : sudah 
 
 8. Modifikasi kode program pada pertanyaan 7 menjadi perulangan dengan foreach
    loop. Compile, run, lalu lakukan amati hasilnya.
-   jawab :
+   jawab : sudah
 
 9.  Modifikasi kembali kode program pada langkah 11 untuk menampilkan nama
     penonton untuk setiap baris. Compile dan run program kemudian amati hasilnya.
-    jawab : 
+    jawab : sudah
 
 10. Menurut Anda, apa kekurangan dan kelebihan foreach loop dibandingkan dengan for
     loop?
-    jawab :
+    jawab : 
+    foreach (enhanced for loop)
+    ✔ lebih sederhana
+    ✔ tidak perlu menangani indeks
+    ✖ tidak bisa mengakses indeks langsung
+    ✖ tidak bisa memodifikasi nilai berdasarkan posisi tertentu
+
+    for (biasa)
+   ✔ bisa akses indeks
+   ✔ bisa digunakan untuk manipulasi spesifik
+   ✖ lebih panjang penulisannya
 
 11. Berapa indeks baris maksimal untuk array penonton?
-    jawab : 
+    jawab : jumlah baris = 4 , indeks maksimal = 3
 
 12. Berapa indeks kolom maksimal untuk array penonton?
-    jawab : 
+    jawab : jumlah kolom = 2 , indeks maksimal = 1
 
 13. Apa fungsi dari String.join()?
-    jawab :
+    jawab : Untuk menggabungkan beberapa string menjadi satu string dengan delimiter/pemisah tertentu.
+    Contoh:
+    String.join(", ", data) → menghasilkan "A, B, C"
 
 
 PERCOBAAN 2
