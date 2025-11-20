@@ -70,13 +70,13 @@ PERCOBAAN 2
 
 1. Apakah pengisian elemen array dari scanner harus dilakukan secara berurutan mulai
    dari indeks ke-0? Jelaskan!
-   jawab :
+   jawab : tidak, user bisa mengisi baris/kolom mana saja sesuai input.
 
 2. Modifikasi kode program untuk memberikan opsi menu sebagai berikut:
     - Menu 1: Input data penonton
     - Menu 2: Tampilkan daftar penonton
     - Menu 3: Exit
-   jawab :
+   jawab : 
 
 3. Modifikasi kode program untuk menghandle apabila nomor baris/kolom kursi yang
    tidak tersedia
