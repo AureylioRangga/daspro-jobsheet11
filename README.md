@@ -104,11 +104,11 @@ PERCOBAAN 3
    jawab : Default int = 0
 
 4. Tambahkan kode program berikut
-   jawab : 
+   jawab : sudah
 
 5. Array myNumbers memiliki length berbeda untuk setiap barisnya. Apakah panjang
    array dapat dimodifikasi setelah diinstansiasi?
-   jawab :
+   jawab : tidak bisa, java array bersifat fixed-size, tidak bisa ditambah/dikurangi setelah dibuat.
 
 
 PERCOBAAN 4
