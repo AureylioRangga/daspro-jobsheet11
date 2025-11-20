@@ -80,30 +80,31 @@ PERCOBAAN 2
 
 3. Modifikasi kode program untuk menghandle apabila nomor baris/kolom kursi yang
    tidak tersedia
-   jawab : 
+   jawab : sudah
 
 4. Pada menu 1, modifikasi kode program untuk memberikan warning apabila kursi yang
    dipilih sudah terisi oleh penonton lainnya lalu munculkan perintah untuk memasukkan
    baris dan kolom kembali
-   jawab :
+   jawab : sudah
 
 5. Pada menu 2, jika kursi kosong, ganti null dengan ***
-   jawab :
+   jawab : sudah
 
 
 PERCOBAAN 3
 
 1. Tambahkan kode program sebagai berikut
-   jawab :
+   jawab : sudahh 
 
 2. Apa fungsi dari Arrays.toString()?
-   jawab : 
+   jawab : Untuk mengubah array menjadi string agar bisa ditampilkan dengan mudah.
+   Contoh: [1, 2, 3].
 
 3. Apa nilai default untuk elemen pada array dengan tipe data int?
-   jawab :
+   jawab : Default int = 0
 
 4. Tambahkan kode program berikut
-   jawab :
+   jawab : 
 
 5. Array myNumbers memiliki length berbeda untuk setiap barisnya. Apakah panjang
    array dapat dimodifikasi setelah diinstansiasi?
