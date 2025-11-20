@@ -94,7 +94,7 @@ PERCOBAAN 2
 PERCOBAAN 3
 
 1. Tambahkan kode program sebagai berikut
-   jawab : sudahh 
+   jawab : sudah
 
 2. Apa fungsi dari Arrays.toString()?
    jawab : Untuk mengubah array menjadi string agar bisa ditampilkan dengan mudah.
@@ -116,6 +116,6 @@ PERCOBAAN 4
 1. Bagaimana jika terdapat perubahan jumlah siswa dan jumlah mata kuliah? Modifikasi
    kode program SIAKAD untuk mengakomodasi jumlah siswa dan jumlah mata kuliah
    yang dinamis.
-   jawab :
+   jawab : sudah
 
 
