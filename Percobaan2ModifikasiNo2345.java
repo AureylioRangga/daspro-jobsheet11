@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Percobaan2ModifikasiNo2 {
+public class Percobaan2ModifikasiNo2345 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -7,6 +7,7 @@ public class Percobaan2ModifikasiNo2 {
         int baris, kolom;
         int menu;
 
+        // untuk menampilkan menu
         do {
             System.out.println("=== Menu Bioskop ===");
             System.out.println("1. Input data Penonton");
@@ -16,6 +17,7 @@ public class Percobaan2ModifikasiNo2 {
             menu = scanner.nextInt();
             scanner.nextLine();
 
+            // input data penonton
             switch(menu){
                 case 1:
                     System.out.print("Masukkan baris (0-3): ");
@@ -29,24 +31,31 @@ public class Percobaan2ModifikasiNo2 {
                         break;
                     }
 
+                    // Modifikasi nomor 3 Handle nomor kursi tidak tersedia
                     if(penonton[baris][kolom] != null){
                         System.out.println("Kurasi sudah terisi.");
                         break;
                     }
 
+                    // input nama penonton
                     System.out.print("Masukkan nama: ");
                     penonton[baris][kolom] = scanner.nextLine();
                     break;
 
+                    //  untuk menampilkan daftar penonton
                     case 2:
                         for(int i=0; i<4; i++){
                             for(int j=0; j<2; j++){
+
+                                // Modifikasi nomor 4 pengecekan jika kursi terisi
                                 if(penonton[i][j] == null){
+                                    // Modifikasi nomor 5 menampilkan *** jika kursi kosong
                                     System.out.print("*** ");
                                 } else {
                                     System.out.print(penonton[i][j] + " ");
                                 }
                             }
+                            //untuk memindahkan baris
                             System.out.println();
                         }
                         break;

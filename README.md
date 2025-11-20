@@ -76,11 +76,11 @@ PERCOBAAN 2
     - Menu 1: Input data penonton
     - Menu 2: Tampilkan daftar penonton
     - Menu 3: Exit
-   jawab : 
+   jawab : sudah
 
 3. Modifikasi kode program untuk menghandle apabila nomor baris/kolom kursi yang
    tidak tersedia
-   jawab :
+   jawab : 
 
 4. Pada menu 1, modifikasi kode program untuk memberikan warning apabila kursi yang
    dipilih sudah terisi oleh penonton lainnya lalu munculkan perintah untuk memasukkan
